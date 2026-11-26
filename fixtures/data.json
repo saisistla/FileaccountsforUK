@@ -1,0 +1,40 @@
+{
+  "simplifyAccountsPreparation": {
+    "description": "Simplify accounts preparation for small limited companies registered in England.",
+    "steps": [
+      "Collect guided financial data including bank transactions and other inputs.",
+      "Prepare draft accounts as per HMRC requirements.",
+      "Allow user review and approval of final accounts.",
+      "Prepare final accounts ready for filing."
+    ],
+    "targetUsers": ["Farm teams", "Packhouse teams"],
+    "companyType": "Small limited companies registered in England"
+  },
+  "ensureComplianceWithEnglandHMRC": {
+    "description": "Ensure compliance with England HMRC accounting and filing standards.",
+    "standards": [
+      "Accounts prepared according to HMRC rules for small limited companies.",
+      "Filing procedures follow HMRC electronic submission requirements.",
+      "Accounts include all mandatory disclosures and formats as per HMRC."
+    ],
+    "scope": "Small limited companies only, no complex corporate structures."
+  },
+  "provideClearUserFriendlyGuidance": {
+    "description": "Provide clear, user-friendly guidance throughout the accounts preparation and filing process.",
+    "features": [
+      "Step-by-step guided data collection.",
+      "Contextual help and tips relevant to farm and packhouse teams.",
+      "Review workflow with clear approval steps.",
+      "Status indicators for progress and compliance checks."
+    ]
+  },
+  "helpUsersOptimizeTaxManagement": {
+    "description": "Help users optimize tax management efficiently within HMRC guidelines.",
+    "suggestions": [
+      "General efficiency suggestions without providing tax advice.",
+      "Highlight potential tax reliefs applicable to small limited companies.",
+      "Ensure accounts preparation supports optimal tax filing."
+    ],
+    "limitations": "No detailed tax advice or complex audit support."
+  }
+}
